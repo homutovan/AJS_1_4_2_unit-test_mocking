@@ -1,8 +1,10 @@
-# js env starter
-
-[![Build status](https://ci.appveyor.com/api/projects/status/pgje30jtk2oevnyy/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/starter/branch/master)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/hqbv5blonlx5aycj/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-4-2-unit-test-mocking/branch/master)
 ### Installation
+
+
+# Домашнее задание к лекции «Unit-тестирование»
+
+## Mocking (задача со звёздочкой)
 
 ```
 npm install
